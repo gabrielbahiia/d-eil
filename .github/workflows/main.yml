@@ -1,4 +1,4 @@
-name: deploy jostenann
+name: deploy gakjoss
 
 on:
   push:
